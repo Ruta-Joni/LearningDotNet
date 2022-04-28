@@ -1,0 +1,8 @@
+D:\MOKSLAI\tuta\LearningDotNet\LearningArrays\LearningArrays\bin\Debug\LearningArrays.exe.config
+D:\MOKSLAI\tuta\LearningDotNet\LearningArrays\LearningArrays\bin\Debug\LearningArrays.exe
+D:\MOKSLAI\tuta\LearningDotNet\LearningArrays\LearningArrays\bin\Debug\LearningArrays.pdb
+D:\MOKSLAI\tuta\LearningDotNet\LearningArrays\LearningArrays\obj\Debug\LearningArrays.csproj.AssemblyReference.cache
+D:\MOKSLAI\tuta\LearningDotNet\LearningArrays\LearningArrays\obj\Debug\LearningArrays.csproj.SuggestedBindingRedirects.cache
+D:\MOKSLAI\tuta\LearningDotNet\LearningArrays\LearningArrays\obj\Debug\LearningArrays.csproj.CoreCompileInputs.cache
+D:\MOKSLAI\tuta\LearningDotNet\LearningArrays\LearningArrays\obj\Debug\LearningArrays.exe
+D:\MOKSLAI\tuta\LearningDotNet\LearningArrays\LearningArrays\obj\Debug\LearningArrays.pdb
